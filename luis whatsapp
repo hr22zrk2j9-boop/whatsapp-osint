@@ -1,1 +1,5 @@
-python3 send_beacon.py --username (18507244333) --language (es)
+python3 send_beacon.py --username (18507244333) 
+--language (es)
+pip install -r requirements.txt
+PS C: \Users\P\Desktop\All_projects\GithubFork\whatsapp-osint>python. \whatsappbeacon.py
+-u "Maxwell" -L en -e
